@@ -1,0 +1,1 @@
+print(She's a killer queen)
